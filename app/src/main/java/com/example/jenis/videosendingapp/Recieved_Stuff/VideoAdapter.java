@@ -1,4 +1,4 @@
-package com.example.jenis.videosendingapp.Video_Stuff;
+package com.example.jenis.videosendingapp.Recieved_Stuff;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
