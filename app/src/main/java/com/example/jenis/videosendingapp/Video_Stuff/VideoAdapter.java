@@ -1,4 +1,4 @@
-package com.example.jenis.videosendingapp;
+package com.example.jenis.videosendingapp.Video_Stuff;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -6,6 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.example.jenis.videosendingapp.R;
 
 import java.util.List;
 

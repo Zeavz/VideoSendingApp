@@ -1,4 +1,4 @@
-package com.example.jenis.videosendingapp;
+package com.example.jenis.videosendingapp.Video_Stuff;
 
 /**
  * Created by Jenis on 9/25/2016.
