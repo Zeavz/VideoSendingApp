@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:name="com.example.jenis.videosendingapp.Video_Stuff.VideoPlaybackFragment"
+        android:id="@+id/videoPlaybackFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:text="Send"
+        android:id="@+id/sendButton"
+        android:layout_gravity="right"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="77dp"
+        android:layout_alignTop="@+id/redoButton" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Redo"
+        android:id="@+id/redoButton"
+        android:layout_alignParentBottom="true"
+        android:layout_toStartOf="@+id/sendButton"
+        android:layout_marginEnd="52dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save Video"
+        android:id="@+id/saveVideoButton"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="37dp" />
+
+
+</RelativeLayout>

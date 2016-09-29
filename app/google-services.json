@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "504837979130",
+    "firebase_url": "https://videosendingapp.firebaseio.com",
+    "project_id": "videosendingapp",
+    "storage_bucket": "videosendingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504837979130:android:a324fb69f3ca0871",
+        "android_client_info": {
+          "package_name": "com.example.jenis.videosendingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504837979130-npco1pk1e39gmamgllfdpqp7sn3h0e7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg0AgLNsapqRiGZc_OyUc4v7cw-nTEYkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
